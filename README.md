@@ -36,5 +36,3 @@ My work on this account is focused on internal and private Primer projects.
 > 🧭 Security should accelerate engineering, not slow it down.
 
 ---
-
-![GitHub Contributions](https://img.shields.io/github/contributions/oliveratprimer?style=flat-square)

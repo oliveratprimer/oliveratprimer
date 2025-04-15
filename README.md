@@ -1,6 +1,6 @@
 # 🛡️ Senior Security Engineer | Cloud Security | Kubernetes
 
-Hi, I'm Oliver Rivas — a Senior Security Engineer at [Primer](https://primer.ai), focused on building resilient cloud infrastructure and pragmatic security automation.
+Hi, I'm Oliver Rivas, a Senior Security Engineer at [Primer](https://primer.ai), focused on building resilient cloud infrastructure and pragmatic security automation.
 
 ---
 
